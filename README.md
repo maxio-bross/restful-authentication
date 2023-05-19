@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+docs: update view-results-in-terminal.md (#66)
