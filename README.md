@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+fix predict with class filter
