@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Add quantization support to TensorFlow.js converter (#7008)
