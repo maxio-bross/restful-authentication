@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+Conda cv2 ImportError libEGL.so.1 fix (#9255)
