@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Add CoreML Docs Integrations Page (#8063)
