@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Add horizontal Mosaic3 augmentation (#6898)
