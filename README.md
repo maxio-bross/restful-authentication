@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+ultralytics 8.1.13 fix yolo train time= bug (#8179)
