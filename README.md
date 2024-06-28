@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Add new YOLOv8 OBB model metrics (#7379)
