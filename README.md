@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
