@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
