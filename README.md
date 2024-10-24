@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+docs: update view-results-in-terminal.md (#66)
